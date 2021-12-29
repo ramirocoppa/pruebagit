@@ -1,7 +1,7 @@
 esta es la historia de ramiro coppa
 
-ramiro coppa tiene 31 años y nacio en argentina, viviendo en buenos aires
+ramiro coppa tiene 30 años y nacio en argentina
 
 hoy hablaremos de su historia
 
-Es muy flaco y le gustan las hamburguesas
+hoy nos enfocamos en git
